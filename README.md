@@ -1,6 +1,6 @@
-# Example InSpec Profile
+# InSpec Profile Demo
 
-This example shows the implementation of an InSpec profile.
+Inspec Profile for testing with a custom cookbook
 
 To Do:
 - Write some tests for the corresponding cookbook, [inspec-workshop-cookbook]()
