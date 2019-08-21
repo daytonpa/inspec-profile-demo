@@ -3,8 +3,11 @@ title: InSpec Profile
 maintainer: Patrick Dayton
 copyright: Patrick Dayton
 copyright_email: myemailis@notforyou.toobad
-license: Apache-2.0
-summary: An InSpec Compliance Profile
+license: All Rights Reserved
+summary: An demo InSpec Compliance Profile
 version: 0.1.0
+summary: A demo for testing an Ubuntu profile by writing controls with InSpec
 supports:
-  platform: os
+  - platform-name: ubuntu
+  - platform-name: amazon
+  
